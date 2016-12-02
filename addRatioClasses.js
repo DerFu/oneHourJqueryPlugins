@@ -1,6 +1,5 @@
 $.fn.addRatioClasses = function(options){
     options = $.extend({
-        body: true,
         addRatioClassToBody: true,
         elList: []
     }, options);
